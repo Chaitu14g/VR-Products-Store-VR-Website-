@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#custom-names-1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#custom-names-2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#custom-names-3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#custom-names-4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.logo {
+    height: 20px;
+    width: 20px;
+}
+
+.page {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.button {
+    background-color: #1a2137;
+    color: white;
+    border-width: 0px;
+    padding: 10px;
+}
+
+.heading {
+    color: white;
+}
+
+.image {
+    height: 80px;
+    width: 50px;
+}
+
+h1 {
+    color: #1f2933;
+    font-size: 25px;
+}
+
+p {
+    color: #7b8794;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.sp {
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.mainpage {
+    background-color: white;
+    padding: 20px;
+}
+
+.kit_heading {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.kit_para {
+    color: #323f4b;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.imagesingle {
+    height: 150px;
+    width: 150px;
+}
+
+.totalpage {
+    background-color: white;
+    padding: 20px;
+}
+
+.opticsHeading {
+    color: #1f2933;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.opticsPara {
+    font-size: 15px;
+    color: #7b8794;
+    font-weight: bold;
+}
+
+.opticsButton {
+    background-color: #1a2137;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.contactustotalpage {
+    background-color: #222b36;
+    background-size: cover;
+}
+
+.contactush1 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.contactusimage {
+    height: 150px;
+    width: 200px;
+}
+
+.contactusbutton {
+    padding: 10px;
+    text-align: center;
+    background-color: #222b36;
+    color: white;
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: white;
+    margin-bottom: 20px;
+}
+
+.trendingtotalpage {
+    background-color: white;
+    background-size: cover;
+}
+
+.trendingmainheading {
+    font-size: 30px;
+    font-weight: bold;
+    color: #1f2933;
+    margin-right: auto;
+}
+
+.trendingbutton {
+    background-color: #1754a1;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.trendingh1 {
+    font-size: 10px;
+    color: #959ead;
+}
+
+.trendingp {
+    color: #323f4b;
+    font-size: 15px;
+}
+
+.trendingiconpara {
+    color: #1754a1;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.productstotalpage {
+    background-color: white;
+    margin: 20px;
+}
+
+.productsmainheading {
+    color: #1f2933;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.productssubimage {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 500px;
+}
+
+.productsh1 {
+    color: white;
+    font-size: 35px;
+    font-weight: normal;
+}
+
+.productsp {
+    color: white;
+    font-size: 25px;
+}
+
+.productsbutton {
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.productssubimagenew {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 500px;
+}
+
+.productslastbutton {
+    background-color: #1754a1;
+    color: white;
+    border-width: 0px;
+    text-align: center;
+}
+
+.contacttotalpagedown {
+    background-color: #19232d;
+    margin:0px !important;
+    flex-wrap:wrap;
+}
+
+.contactimage {
+    height: 30px;
+    width: 50px;
+}
+
+.contacticon-container {
+    background-color: #202b36;
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    margin: 10px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.contacticon {
+    color: #5a7184;
+    font-size: 30px;
+}
+
+.contactp {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.contacth1 {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.contacthr-line {
+    background-color: #5a7184;
+}
+
+.contactlastline {
+    color: #959ead;
+}
+
+.wrapContainer{
+    flex-wrap: wrap;
+}
+
+.lastFinalContainer{
+    height:100vh;
+    width:100%;
+    overflow-y: auto;
+}
