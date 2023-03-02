@@ -146,7 +146,6 @@ p {
     font-size: 30px;
     font-weight: bold;
     color: #1f2933;
-    margin-right: auto;
 }
 
 .trendingbutton {
@@ -279,4 +278,9 @@ p {
     height:100vh;
     width:100%;
     overflow-y: auto;
+}
+
+.viewMoreButton{
+    text-decoration: none !important;
+    color: white !important;
 }
